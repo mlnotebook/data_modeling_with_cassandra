@@ -1,6 +1,8 @@
 # Data Modeling with Apache Cassandra
 
-A project completed with the Udacity Nanodegree Program in Data Engineering. This project performs datamodelling on a denormalized NoSQL database. For comparison, similar queries are found with Relational databases as found my repository on [Data Modeling with PostgreSQL](https://github.com/mlnotebook/data_modelling_with_postgresql).
+A project completed with the Udacity Nanodegree Program in Data Engineering.
+
+This project performs datamodelling on a denormalized NoSQL database. For comparison, similar queries are found with Relational databases as found my repository on [Data Modeling with PostgreSQL](https://github.com/mlnotebook/data_modelling_with_postgresql).
 
 ## Purpose
 
